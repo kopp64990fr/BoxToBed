@@ -6,4 +6,4 @@
 
 # Schéma du switch cisco
 
-<img width="1127" height="430" alt="Schéma cisco drawio" src="https://github.com/user-attachments/assets/69dae047-75d2-421e-b3c9-d50f55c52ba6" />
+<img width="1127" height="430" alt="Schéma cisco drawio" src="https://github.com/user-attachments/assets/708bd3bf-3320-4405-8ca9-0d45593f5631" />
